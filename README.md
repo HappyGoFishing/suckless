@@ -1,0 +1,2 @@
+# my builds of suckless projects.
+## (I have switched to wayland now so I don't really use any of this anymore)
